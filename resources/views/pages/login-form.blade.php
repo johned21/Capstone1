@@ -15,7 +15,7 @@
                     </div>
                 </div>
                 <div class="card-body">
-                    <div class="col-md-6 offset-md-3">
+                    <div class="col-md-8 offset-md-2">
                         {!! Form::open(['url'=>'/login', 'method'=>'post']) !!}
 
                             <div class="mb-3 form-group @error('email') has-error @enderror">

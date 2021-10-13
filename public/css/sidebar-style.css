@@ -37,6 +37,7 @@ a:focus {
     width: 60px;
     background: #122216;
     padding: 6px;
+    z-index: 2;
     transition: all 0.5s ease;
 }
 
