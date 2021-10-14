@@ -1,3 +1,7 @@
+.wrapper {
+    background-color: rgb(226, 255, 232);
+}
+
 .dashboard-content {
     position: absolute;
     height: 100%;
@@ -19,34 +23,34 @@
     left: 240px;
 }
 
-#modaldata tbody tr > td:last-of-type{
-    display:none;
+#modaldata tbody tr>td:last-of-type {
+    display: none;
 }
 
-tr{
+tr {
     font-size: 15px;
 }
 
-td{
+td {
     font-size: 15px;
 }
 
-#example_paginate{
+#example_paginate {
     font-size: 15px;
 }
 
-#example_info{
+#example_info {
     font-size: 15px;
 }
 
-#example_filter{
+#example_filter {
     font-size: 15px;
 }
 
-#example_length{
+#example_length {
     font-size: 15px;
 }
 
-table tbody tr .btn-info{
+table tbody tr .btn-info {
     font-size: 11px;
 }

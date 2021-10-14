@@ -40,7 +40,7 @@
                             <button type="submit"  onclick="btnload()" class="btn btn-primary regbtn" id="actionBtn">Login</button>
 
                             <p style="margin-top:1rem;">Don't have an account yet?</p>
-                            <p style="margin-top:-1rem;">Click <a href="/register">Register</a></p>
+                            <p style="margin-top:-1rem;">Click <a href="/register" style="color:green; font-weight:bold;">Register</a></p>
                         {!! Form::close() !!}
                     </div>
                 </div>
